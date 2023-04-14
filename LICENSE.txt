@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2023 Mariano Fernandez
+
+Este documento ("Licencia") establece los términos y condiciones bajo los cuales se le permite utilizar mi sitio web de portfolio ("Sitio web") y su contenido relacionado. Por favor, lea cuidadosamente los siguientes términos antes de acceder o utilizar mi Sitio web.
+
+Concesión de licencia: Se le concede una licencia no exclusiva, intransferible y limitada para acceder y utilizar mi Sitio web con fines personales y no comerciales. Esto incluye la visualización de mi contenido, la descarga y copia de información o materiales del Sitio web para su uso personal y no comercial. Sin embargo, no se le permite utilizar mi Sitio web o su contenido para cualquier otro propósito sin mi previo consentimiento por escrito.
+
+Propiedad intelectual: Reconoce que todos los derechos de propiedad intelectual, incluyendo pero no limitándose a derechos de autor, marcas registradas, marcas de servicio y otros derechos de propiedad, en relación con mi Sitio web y su contenido, son de mi exclusiva propiedad o de terceros que me han otorgado licencia para su uso. No se le otorga ninguna licencia o derecho sobre la propiedad intelectual relacionada con mi Sitio web, excepto lo expresamente establecido en esta Licencia.
+
+Restricciones de uso: Se compromete a utilizar mi Sitio web y su contenido de manera legal y ética. Queda prohibido cualquier uso que pueda infringir los derechos de propiedad intelectual de terceros, difamar, acosar, violar la privacidad o causar daño a mi reputación o a la de terceros. No está permitido copiar, modificar, distribuir, transmitir, exhibir, realizar, reproducir, publicar, licenciar, crear obras derivadas, transferir o vender cualquier información, software, productos o servicios obtenidos de mi Sitio web.
+
+Actualización del contenido: Aunque me esfuerzo por mantener la información y el contenido de mi Sitio web actualizados y precisos, no garantizo la exactitud, integridad o actualidad de dicha información o contenido. Me reservo el derecho de modificar, actualizar o retirar cualquier parte de mi Sitio web o su contenido en cualquier momento y sin previo aviso.
+
+Enlaces a terceros: Mi Sitio web puede contener enlaces a sitios web de terceros que no están bajo mi control. No asumo ninguna responsabilidad por el contenido, las políticas de privacidad o las prácticas de los sitios web de terceros. El acceso y uso de sitios web de terceros están sujetos a los términos y condiciones establecidos por dichos sitios.
+
+Exclusión de garantías: Mi Sitio web se proporciona "tal cual" y "según disponibilidad", sin garantías de ningún tipo, ya sean expresas o implícitas. No garantizo la disponibilidad, la precisión, la integridad, la puntualidad o la confiabilidad de mi Sitio web o su contenido. Usted utiliza mi Sitio web bajo su propio riesgo.
+
+Limitación de responsabilidad: En ningún caso seré responsable por daños directos, indirectos, incidentales, especiales, consecuentes o punitivos, incluyendo, pero no limitándose a, pérdida de datos, pérdida de ingresos, pérdida de oportunidades comerciales, interrupción del negocio o cualquier otro 
+
+
+###########################################################
+
+This document ("License") sets forth the terms and conditions under which you are granted permission to use my portfolio website ("Website") and its related content. Please read the following terms carefully before accessing or using my Website.
+
+License Grant: You are granted a non-exclusive, non-transferable, and limited license to access and use my Website for personal and non-commercial purposes. This includes viewing my content, downloading and copying information or materials from the Website for your personal and non-commercial use. However, you are not allowed to use my Website or its content for any other purpose without my prior written consent.
+
+Intellectual Property: You acknowledge that all intellectual property rights, including but not limited to copyrights, trademarks, service marks, and other proprietary rights, in relation to my Website and its content, are solely owned by me or third parties who have granted me a license for their use. You are not granted any license or right to the intellectual property related to my Website, except as expressly stated in this License.
+
+Restrictions on Use: You agree to use my Website and its content in a legal and ethical manner. Any use that may infringe upon the intellectual property rights of third parties, defame, harass, violate privacy, or damage my reputation or that of third parties is prohibited. It is not allowed to copy, modify, distribute, transmit, display, perform, reproduce, publish, license, create derivative works, transfer, or sell any information, software, products, or services obtained from my Website.
+
+Content Updates: While I strive to keep the information and content on my Website current and accurate, I do not guarantee the accuracy, completeness, or timeliness of such information or content. I reserve the right to modify, update, or remove any part of my Website or its content at any time and without prior notice.
+
+Third-Party Links: My Website may contain links to third-party websites that are not under my control. I assume no responsibility for the content, privacy policies, or practices of third-party websites. Accessing and using third-party websites are subject to the terms and conditions established by such sites.
+
+Disclaimer of Warranties: My Website is provided "as is" and "as available," without any warranties of any kind, whether express or implied. I do not guarantee the availability, accuracy, completeness, timeliness, or reliability of my Website or its content. You use my Website at your own risk.
+
+Limitation of Liability: In no event shall I be liable for any direct, indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of data, loss of revenue, loss of business opportunities, business interruption, or any other damages arising out of or in connection with the use or inability to use my Website.
